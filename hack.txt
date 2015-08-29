@@ -1,0 +1,22 @@
+This one hack may be known to all programmers but for others this might help.
+
+Do you want to see the saved passwords which will be shown as 
+
+**********
+
+?
+
+
+
+
+Right click on the password field and select inspect element from the menu.
+
+
+
+A line of HTML code shows near the bottom section of the HTML page and one line will be shown selected.
+
+For viewers sake i'm pasting that line
+
+<input id="Passwd" name="Passwd" type="password" placeholder="Password" class="">
+
+Double click on the type="password"

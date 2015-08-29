@@ -1,0 +1,49 @@
+The best things and stuff of 2014
+Great things and people that I discovered, learned, read, met, etc. in 2014. No particular ordering is implied. Not everything is new.
+
+also: see the lists from 2013, 2012, 2011 and 2010
+
+Great blog posts read
+What happens if you write a TCP stack in Python? Julia Evans answers this question with “something awesome.” I couldn’t agree more.
+
+The Bootstrapped Compiler and the Damage Done Laurence Tratt writes my favorite blog.
+
+How Steve Wozniak Wrote BASIC for the Original Apple From Scratch The title says enough.
+
+The Legend Of Linda Perhacs, ‘A Most Unlikely Rock Star’ Linda Perhacs is a little-known Folk singer who almost disappeared into eternal obscurity. That is, until her music was rediscovered decades after releasing her only album.
+
+Life of a HTTP request, as seen by my toy web server I’ve always thought that programming toys (e.g. compilers, interpreters, servers, etc.) were, like the fruit fly, useful ways to gain a deeper understanding of larger systems within the confines of a constrained tableau.
+
+The problematic culture of “Worse is Better” Well someone had to say it, and I’m glad that it was Paul Chiusano who did.
+
+How I wrote Neuromancer A lovely little vignette by William Gibson about how Neuromancer came to be. The spirit of the article really resonates with my own experience and motivations for helping to write The Joy of Clojure.
+
+ALEC’s a Language for Expressing Creativity – Grant Rettke is building a system on top of Emacs called Alec that is not only a useful tool, but a tool that has informed his very way of thinking. His ongoing journey is told via org-mode-babel files on Github and it’s a joy to read.
+
+Frank Sinatra has a cold a great story from a bygone age about a force of nature.
+
+A Generation Lost in the Bazaar A critical essay about the bazaar model of software development.
+
+The second operating system hiding in every mobile phone Little-known considerations about firmware insecurities in your phone.
+
+Forth Methodology Applied to Programming The title say enough.
+
+What is Gradual Typing from the source
+
+Ramblings on languages and architectures Mike Pall’s mind is open.
+
+Most viewed blog posts by me (20K+ viewers)
+I’ve been scaling back on blogging this past year and have tried something different instead – Read-Eval-Print-λove. That said, there were a couple of high-traffic posts on my blog.
+
+10 Technical Papers Every Programmer Should Read (At Least Twice) — My most popular post of 2011 was also my most popular of 2012 and also of 2013 and also of 2014 — go figure.
+
+Timothy Hart, Rest in Peace — Timothy Hart was the father of LISP macros.
+
+Favorite technical books discovered (and read)
+Creating Interactive Fiction with Inform7 — Inform7 is a perspective-altering programming language. It’s nearly the pinnacle of languages that are informed (hah) by the types of problems that they’re attempting to solve. Beautiful.
+
+Object Oriented Forth — Honestly, I can’t think of better tech literature available than those written about Forth.
+
+Ruby Under a Microscope — I’ll honestly say that I went into this book expecting the worst. However, I was pleasantly surprised when I was done that the book is a fairly nice dive into the Ruby internals. I’m frankly shocked that a book like this was even published, but once again the long tail reigns supreme; much to our benefit.
+
+Programmer avec Scheme — I read this in a marathon 3-days during Strange Loop 2014 thanks to Nada Amin, who hauled it all the way across the planet for me to read. I’d really love to get another chance to go through it and digest it, but I did like it very much on my first pass. My favorite part was that while the prose was French, the code too was “very French” also

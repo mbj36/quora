@@ -1,0 +1,16 @@
+Have you ever wondered how can you make your computer speak whatever you input to it like in the movies? Would it not be fun? If only it was possible! Rejoice, because now it is possible. With this trick, you can create a script in Windows which will make your computer speak whatever you input to it.
+Steps
+Open Notepad.
+Copy and paste the exact code given below.
+          Dim Message, Speak
+          Message=InputBox("Enter text","Speak")
+          Set Speak=CreateObject("sapi.spvoice")
+          Speak.Speak Message
+    3.  Click on File Menu, Save As, select All Types in Save as Type option, and save the file      as Speak.vbs or "*.vbs".
+    4.   Double click on the saved file, a window will open like the one in the image. Enter some text in enter text column and click OK.
+
+Now your Computer will speak / talk what you typed in Step 4. Try it yourself.
+
+Windows Compatibility: This VBS file can be executed on all versions of Windows including Windows XP, Windows Vista, Windows 7 and Windows 8.
+source :- @http://www.tweakandtrick.com
+Written Wed.

@@ -1,0 +1,3 @@
+See what Google knows about you or your computer.
+
+Go to http://google.com/ads/preferences on your browser and it will open the advertisement profile that Google created for your browser on your computer, which is linked to you if you use that computer and browser.

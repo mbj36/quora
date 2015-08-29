@@ -1,0 +1,242 @@
+SMASHINGAPPS.COM
+January 1, 2015
+Valuable Tools/Resources For Web Designers & Developers
+Akhter
+Web designers as well as web developers constantly need some web tools and resources to add into their toolboxes. Such tools and resources are meant to make their work easy and let them complete their tasks easily. By integrating such tools designers and developers make their daily routine work easier as well as faster for them. Moreover, some of the handy tools also allow designers and developers to communicate effectively with their clients and in this way they help in enhancing the productivity of the designer or developer.
+
+For this assortment, we have compiled a collection of 40 valuable tools and resources especially for the web designers. With this list of useful resources, we want to help web designers improve their work flow and increase their productivity. Feel free to share this post with others and as well as on social networking website. You can also follow us on Twitter as well.
+
+Source Tree
+
+SourceTree is a free Mercurial and Git Client for Windows and Mac that provides a graphical interface for your Hg and Git repositories.
+
+
+ 
+TmTheme Editor
+
+TmTheme Editor is the a visual color-scheme/theme editor for Sublime Text and Textmate editors.
+
+
+ 
+Ie-css3.js
+
+Selectivizr is a JavaScript utility that emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8. Simply include the script in your pages and selectivizr will do the rest.
+
+
+ 
+Colour Code
+
+colourco.de is an online designer tool, which allows you to easily and intuitively combine colours.
+
+
+ 
+Long Shadow Generator
+
+It seems that “long shadows” are the new trend these days, especially on Dribbble. Now you can apply this style nice and easy to any type of layer. It works with smart objects and is available in 2 directions at 45 degrees. Enjoy!
+
+
+ 
+Dimension
+
+Dimensions is a responsive web design testing tool. It is the easiest way to test responsive websites at different viewports. It works offline & is compatible with LiveReload.
+
+
+ 
+Mapita
+
+A 3D map Photoshop action to convert a flat map to a three dimensional isometric stylish one a single click.
+
+
+ 
+Buttons
+
+A variety of highly customizable CSS Buttons built with Sass and Compass. The Buttons framework is ready to use and easy to install.
+
+
+ 
+Fontastic
+
+The Best Free Icon Font Generator: Create your Icon Font with more than 4000 Vector Icons.
+
+
+ 
+Dev Tools Secret
+
+Secrets of the Browser Developer Tools.
+
+
+ 
+Popular UI
+
+Free popular web UIs reproduced exactly in Photoshop for educational purposes.
+
+
+ 
+Pixel Dropr
+
+Create, use and share your own pixel collections.
+
+
+ 
+Firefox’s Font Inspector
+
+
+ 
+What’s My Browser Size?
+
+A simple and beautiful way to find out your browser size.
+
+
+ 
+HEX to RGB Converter
+
+A simple HEX to RGB converter.
+
+
+ 
+Heyoffline.js
+
+Warn your users when their network goes down. Make sure they don’t lose anything.
+
+
+ 
+PlaceIt
+
+Your iPhone, iPad and other device screenshots automatically processed on the fly to be placed within a realistic environment of your choosing.
+
+
+ 
+Alfred Workflows
+
+A Few Of Our Favourites So Far.
+
+
+ 
+PLTTS
+
+With PLTTS you can search for colour palettes from ColourLovers. It’s easy to search for a palette with any specific colour. Or just bookmark your favorites.
+
+
+ 
+Mincss
+
+mincss is a tool that when given a URL (or multiple URLs) downloads that page and all its CSS and compares each and every selector in the CSS and finds out which ones aren’t used.
+
+
+ 
+Chardin.js
+
+Simple and beautiful overlay instructions for your apps.
+
+
+ 
+CorMVC
+
+An old attempt to build a jQuery and JavaScript powered client-side MVC framework.
+
+
+ 
+Typograph
+
+This page falls somewhere between a tool and an essay. It sets out to explore how the intertwined typographic concepts of scale and rhythm can be encouraged to shake a leg on web pages. Drag the colored boxes along the scale to throw these words anew. For the most part, this text is just a libretto for the performance you can play upon it.
+
+
+ 
+JavaScript Frameworks Playground: jsFiddle
+
+jsFiddle is a shell editor that eases writing JavaScript code by creating a custom environment based on popular JS frameworks.
+
+
+ 
+jslib
+
+Mozilla gives a great flexibility and power to Javascript. This popular client side scripting language can be used to create application level logic and services for cross platform application development.
+
+
+ 
+HTML Purifier
+
+HTML Purifier is a standards-compliant HTML filter library written in PHP.
+
+
+ 
+SproutCore
+
+SproutCore is an open-source framework for building blazingly fast, innovative user experiences on the web.
+
+
+ 
+IxEdit
+
+IxEdit is a JavaScript-based interaction design tool for the web. With IxEdit, designers can practice DOM-scripting without coding to change, add, move, or transform elements dynamically on your web pages. Especially, IxEdit must be useful to try various interactions rapidly in the prototyping phase of your web application.
+
+
+ 
+Show {if}
+
+
+ 
+Graudit
+
+Graudit is a simple script and signature sets that allows you to find potential security flaws in source code using the GNU utility grep. It’s comparable to other static analysis applications like RATS, SWAAT and flaw-finder while keeping the technical requirements to a minimum and being very flexible.
+
+
+ 
+Snap{css}: an open-source CSS editor for Windows
+
+To those of you that use notepad for your css files, we get it. It gives you greater control over your design, doesn’t add bloat code to your stylesheets, and doesn’t add a bunch of features that you never use to the interface.
+
+
+ 
+Five Awesome On-Screen Rulers
+
+They’re not the sexiest programs in the world, but for many designers, on-screen rulers are must-haves.
+
+
+ 
+PowerPoint Search Engine with detailed thumbnail results
+
+SlideFinder is a specialized search engine for PowerPoint presentations. Results are displayed at the slide level, enabling detailed search results.
+
+
+ 
+BLOKK
+
+BLOKK is a font for quick mock-ups and wireframing for clients who do not understand latin.
+
+
+ 
+Timehub
+
+Generate good-looking invoices from your GitHub repositories. Save yourself some time and send invoices with ease.
+
+
+ 
+Dabr
+
+Dabr is a PHP web interface to the Twitter API for mobile devices. The project is running live at http://dabr.co.uk and gets around one million daily page views.
+
+
+ 
+Your Bookmarklets, On Steroids
+
+Quix is an extensible bookmarklet, that allows you to easily access all your bookmarks and bookmarklets, across all your browsers, while maintaining them in only one spot. All you have to do is remember the shortcut for the bookmarklet, so, basically, it’s like a command line for your browser!
+
+
+ 
+Minibuilder
+
+Flash MiniBuilder is a lightweight IDE created for developing programs written in ActionScript 3.
+
+
+ 
+Real-time HTML Editor
+
+Real-time HTML Editor.
+
+
+ 
+Unicode code converter v7.0.1
+
+Type or paste text in any of the green or grey shaded boxes and click on the button Convert button above it. Alternative representations will appear in all the other boxes.
+ 

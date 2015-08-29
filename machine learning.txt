@@ -1,0 +1,123 @@
+In my opinion, these are some of the necessary skills:
+
+UPDATE: I create a repo on github of hundreds of software links that should help get you started: https://github.com/josephmisiti/...
+
+1. Python/C++/R/Java - you will probably want to learn all of these languages at some point if you want a job in machine-learning. Python's Numpy and Scipy libraries [2] are awesome because they have similar functionality to MATLAB, but can be easily integrated into a web service and also used in Hadoop (see below). C++ will be needed to speed code up. R [3] is great for statistics and plots, and Hadoop [4] is written in Java, so you may need to implement mappers and reducers in Java (although you could use a scripting language via Hadoop streaming [5])
+
+2. Probability and Statistics: A good portion of learning algorithms are based on this theory. Naive Bayes [6], Gaussian Mixture Models [7], Hidden Markov Models [8], to name a few. You need to have a firm understanding of Probability and Stats to understand these models. Go nuts and study measure theory [9]. Use statistics as an model evaluation metric: confusion matrices, receiver-operator curves, p-values, etc.
+
+3. Applied Math + Algorithms: For discriminate models like SVMs [10], you need to have a firm understanding of algorithm theory. Even though you will probably never need to implement an SVM from scratch, it helps to understand how the algorithm works. You will need to understand subjects like convex optimization [11], gradient decent [12], quadratic programming [13], lagrange [14], partial differential equations [15], etc. Get used to looking at summations [16].
+
+4. Distributed Computing: Most machine learning jobs require working with large data sets these days (see Data Science) [17]. You cannot process this data on a single machine, you will have to distribute it across an entire cluster. Projects like Apache Hadoop [4] and cloud services like Amazon's EC2 [18] makes this very easy and cost-effective. Although Hadoop abstracts away a lot of the hard-core, distributed computing problems, you still need to have a firm understanding of map-reduce [22], distribute-file systems [19], etc. You will most likely want to check out Apache Mahout [20] and Apache Whirr [21].
+
+5. Expertise in Unix Tools: Unless you are very fortunate, you are going to need to modify the format of your data sets so they can be loaded into R,Hadoop,HBase [23],etc. You can use a scripting language like python (using re) to do this but the best approach is probably just master all of the awesome unix tools that were designed for this: cat [24], grep [25], find [26], awk [27], sed [28], sort [29], cut [30], tr [31], and many more. Since all of the processing will most likely be on linux-based machine (Hadoop doesnt run on Window I believe), you will have access to these tools. You should learn to love them and use them as much as possible. They certainly have made my life a lot easier. A great example can be found here [1].
+
+6. Become familiar with the Hadoop sub-projects: HBase, Zookeeper [32], Hive [33], Mahout, etc. These projects can help you store/access your data, and they scale.
+
+7. Learn about advanced signal processing techniques: feature extraction is one of the most important parts of machine-learning. If your features suck, no matter which algorithm you choose, your going to see horrible performance. Depending on the type of problem you are trying to solve, you may be able to utilize really cool advance signal processing algorithms like: wavelets [42], shearlets [43], curvelets [44], contourlets [45], bandlets [46]. Learn about time-frequency analysis [47], and try to apply it to your problems. If you have not read about Fourier Analysis[48] and Convolution[49], you will need to learn about this stuff too. The ladder is signal processing 101 stuff though.
+
+Finally, practice and read as much as you can. In your free time, read papers like Google Map-Reduce [34], Google File System [35], Google Big Table [36], The Unreasonable Effectiveness of Data [37],etc There are great free machine learning books online and you should read those also. [38][39][40]. Here is an awesome course I found and re-posted on github [41]. Instead of using open source packages, code up your own, and compare the results. If you can code an SVM from scratch, you will understand the concept of support vectors, gamma, cost, hyperplanes, etc. It's easy to just load some data up and start training, the hard part is making sense of it all.
+
+Good luck.
+
+For more help, ping me on twitter: https://www.twitter.com/josephmi...
+
+If you need help with machine learning, hire me: http://www.mathandpencil.com
+
+
+
+[1] http://radar.oreilly.com/2011/04...
+
+[2] http://numpy.scipy.org/
+
+[3] http://www.r-project.org/
+
+[4] http://hadoop.apache.org/
+
+[5] http://hadoop.apache.org/common/...
+
+[6] http://en.wikipedia.org/wiki/Nai...
+
+[7] http://en.wikipedia.org/wiki/Mix...
+
+[8] http://en.wikipedia.org/wiki/Hid...
+
+[9] http://en.wikipedia.org/wiki/Mea...
+
+[10] http://en.wikipedia.org/wiki/Sup...
+
+[11] http://en.wikipedia.org/wiki/Con...
+
+[12] http://en.wikipedia.org/wiki/Gra...
+
+[13] http://en.wikipedia.org/wiki/Qua...
+
+[14] http://en.wikipedia.org/wiki/Lag...
+
+[15] http://en.wikipedia.org/wiki/Par...
+
+[16] http://en.wikipedia.org/wiki/Sum...
+
+[17] http://radar.oreilly.com/2010/06...
+
+[18] http://aws.amazon.com/ec2/
+
+[19] http://en.wikipedia.org/wiki/Goo...
+
+[20] http://mahout.apache.org/
+
+[21] http://incubator.apache.org/whirr/
+
+[22] http://en.wikipedia.org/wiki/Map...
+
+[23] http://hbase.apache.org/
+
+[24] http://en.wikipedia.org/wiki/Cat...
+
+[25] http://en.wikipedia.org/wiki/Grep
+
+[26] http://en.wikipedia.org/wiki/Find
+
+[27] http://en.wikipedia.org/wiki/AWK
+
+[28] http://en.wikipedia.org/wiki/Sed
+
+[29] http://en.wikipedia.org/wiki/Sor...
+
+[30] http://en.wikipedia.org/wiki/Cut...
+
+[31] http://en.wikipedia.org/wiki/Tr_...
+
+[32] http://zookeeper.apache.org/
+
+[33] http://hive.apache.org/
+
+[34] http://static.googleusercontent....
+
+[35]http://static.googleusercontent....
+
+[36]http://static.googleusercontent....
+
+[37]http://static.googleusercontent....
+
+[38] http://www.ics.uci.edu/~welling/...
+
+[39] http://www.stanford.edu/~hastie/...
+
+[40] http://infolab.stanford.edu/~ull...
+
+[41] https://github.com/josephmisiti/...
+
+[42] http://en.wikipedia.org/wiki/Wav...
+
+[43] http://www.shearlet.uni-osnabrue...
+
+[44] http://math.mit.edu/icg/papers/F...
+
+[45] http://www.ifp.illinois.edu/~min...
+
+[46] http://www.cmap.polytechnique.fr...
+
+[47 ]http://en.wikipedia.org/wiki/Tim...
+
+[48] http://en.wikipedia.org/wiki/Fou...

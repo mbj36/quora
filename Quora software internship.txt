@@ -1,0 +1,9 @@
+You can see the requirements here: https://www.quora.com/careers/software_engineer_intern
+
+Things we look for include:
+Pursuing a degree in Computer Science or a related field. Past internship experience isn't important to us
+Extraordinary software engineering talent
+Knowledge of Python, JavaScript, C++, or the ability to learn a language quickly
+Love of the Quora product
+Experience with web applications, databases, distributed systems, and machine learning a plus
+Passion for learning and always improving yourself and the team around you

@@ -1,0 +1,25 @@
+There's nothing special about the number 10, so here's my arbitrary length list of websites computer science students should check out, with priority given to obscurity.
+
+Github Explore and Github Student Developer Pack
+Amazon Web Services or Google Cloud Platform
+Coursera, Udacity, edX, Khan Academy, MIT OpenCourseWare
+HackerRank, TopCoder, USACO, ACM-ICPC
+The Verge, Hacker News, Ars Technica
+Stack Overflow, Quora, Google, Wikipedia
+
+I've left off the hundreds of websites you should visit roughly once, for instance for learning a particular skill or for downloading some piece of software. These are super important too! In fact, here are a few of them:
+
+scikit-learn: machine learning in Python
+Redis
+Flask (A Python Microframework)
+Storm, distributed and fault-tolerant realtime computation
+Apache Kafka
+Structure and Interpretation of Computer Programs
+The IPython Notebook
+virtualenvwrapper 4.3.post18
+Advanced Python Scheduler
+jQuery
+Apache Spark™ - Lightning-Fast Cluster Computing
+Alfred - Productivity App for Mac OS X
+
+Lastly, Wikipedia pages like this one and Google searches like this one should keep you busy for ages.

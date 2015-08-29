@@ -1,0 +1,11 @@
+Replace "youtube" with "listentoyoutube" in the URL to download the audio of the video.
+
+Replace "youtube" with "ssyoutube" in the URL to download the video in any quality available.
+
+Replace "youtube" with "nsfwyoutube" to bypass age restriction.
+
+Replace "youtube" with "youtubeskip" in the URL and you won't see ads.
+
+Replace "youtube" with "listenonrepeat" in the URL to repeat the video automatically .
+
+Replace "youtube" with "gifyoutube" in the URL to convert video into gif format .

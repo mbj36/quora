@@ -1,0 +1,225 @@
+Fantastic Collection Of Free Tools & Resources For Designers
+Akhter
+Tools are the best friends be it for web designer or for any other professional. The world of web is also full of different kinds of tools and resources that the community keeps on delivering. Tools help designers complete their job more efficiently and in a professional manner. These tools include coding tools, icon sets, fonts, vector design set, patterns, PSD files, UI kits to name a few.
+
+Below, you will discover a fantastic and very useful free tools that every designer must have. So what do you think? What did we miss? Which tools do you like the most and why? Leave us a comment and let us know what you think about this compilation.
+
+Font Combiner
+
+Font Combiner is a versatile web font creator and font improvement tool exposing advanced font features to the end user – kerning, subsetting, various hinting options and custom font glyph combinations.
+
+
+ 
+Dracula
+
+A dark theme for Sublime Text, Alfred, Chrome, TextMate, Vim and xcode.
+
+
+ 
+Animated Opening Type
+
+An amazing animated 3D opening type effect with pseudo-elements, CSS transforms and transitions.
+
+
+ 
+YAMB
+
+YAMB is a small set of tools and best practices that allow web designers to build responsive websites faster.
+
+
+ 
+Scrolld.js
+
+Scrolld.js is a unique open source plugin for jQuery. Scrolld.js provides a method for highly precise scrolling for pixel-perfect layouts and navigation using real-time updated data values. With Scrolld.js your scrolling to items will always be exact and will always provide the best user experience.
+
+
+ 
+Sticky-Kit
+
+Sticky-kit provides an easy way to attach elements to the page when the user scrolls such that the element is always visible.
+
+
+ 
+Metro UI CSS
+
+Metro UI CSS a set of styles to create a site with an interface similar to Windows 8. This set of styles was developed as a self-contained solution.
+
+
+ 
+Salvattore
+
+A jQuery Masonry alternative with CSS-driven configuration.
+
+
+ 
+stickUp
+
+A simple plugin that “sticks” an element to the top of the browser window while scrolling past it, always keeping it in view. This plugin works on multi-page sites, but has additional features for one-pager layouts. Scroll down to see it in action.
+
+
+ 
+Simptip
+
+A simple CSS tooltip made with Sass
+
+
+ 
+Slippry
+
+Slippry is a responsive content slider by booncon ROCKETS. Slippry is truly responsive, built on modern web standards and is packed with options, so it can be as simple or complex as you want, so give it a go!
+
+
+ 
+Xmarks
+
+Offers bookmark synchronization, search enhancement and web discovery based on sites bookmarked by users.
+
+
+ 
+Remember the Milk
+
+Remember The Milk: Online to-do list and task management.
+
+
+ 
+Mockflow
+
+Design, collaborate user interface concepts for your software and websites.
+
+
+ 
+SocialMention
+
+Social Mention is a social media search engine that searches user-generated content such as blogs, comments, bookmarks, events, news, videos, and microblogging services.
+
+
+ 
+HTML5 Please
+
+Look up HTML5, CSS3, etc features, know if they are ready for use, and if so find out how you should use them – with polyfills, fallbacks or as they are.
+
+
+ 
+HTML KickStart
+
+HTML KickStart is a ultra–lean set of HTML5, CSS, and jQuery (javascript) files, layouts, and elements designed to give you a headstart and save you a lot of hours on your next web project.
+
+
+ 
+CheckMyColours
+
+What is CheckMyColours?
+
+It is a tool for checking foreground and background color combinations of all DOM elements and determining if they provide sufficient contrast when viewed by someone having color deficits.
+
+
+ 
+CSS3 Click Chart
+
+Allows you to change how the browser calculates the width of an element, that is, whether or not to include padding, borders, and margins, in the width or height calculation.
+
+
+ 
+DeCSS3
+
+A bookmarklet for testing your graceful degradation.
+
+
+ 
+CSSrefresh
+
+CSSrefresh is a small, unobstructive javascript file that monitors the CSS-files included in your webpage. As soon as you save a CSS-file, the changes are directly implemented, without having to refresh your browser.
+
+
+ 
+Simpless
+
+It’s easy to understand why thou­sands of developers use SimpLESS for their web projects. SimpLESS is your easy-to-use LESS CSS compiler.
+
+
+ 
+HTML Purifier
+
+HTML Purifier is a standards-compliant HTML filter library written in PHP. HTML Purifier will not only remove all malicious code (better known as XSS) with a thoroughly audited, secure yet permissive whitelist, it will also make sure your documents are standards compliant, something only achievable with a comprehensive knowledge of W3C’s specifications.
+
+
+ 
+CSS font stack
+
+A complete collection of web safe CSS font stacks and web font CSS.
+
+
+ 
+Excssive
+
+No one likes bloated CSS. Simply drag and drop your CSS files onto this page, and watch as they’re compressed on the fly.
+
+
+ 
+The CSS3 Test
+
+This test checks which CSS3 features the browser recognizes, not whether they are implemented correctly.
+
+
+ 
+Animate.css
+
+Animate.css is a bunch of cool, fun, and cross-browser animations for you to use in your projects. Great for emphasis, home pages, sliders, and general just-add-water-awesomeness.
+
+
+ 
+Toast
+
+Toast is a CSS framework made as simple as it can be, but no simpler. A plain-English responsive grid makes simple layouts a breeze, and with box-sizing you can add padding and borders to the grid, without breaking a single thing.
+
+
+ 
+Less+ Framework
+
+Less+ empowers designers and developers to build websites that can adapt their content depending on screen resolution.
+
+
+ 
+Wonderflux
+
+Wonderflux allows you to rapidly develop highly sophisticated, custom WordPress themes with just a handful of files (minimum is just 1 – style.css) using the principle of a Child theme.
+
+
+ 
+Zoey
+
+Zoey is a lightweight framework for developing mobile apps. It is small, customisable and features a range of UI components.
+
+
+ 
+GuideGuide
+
+
+ 
+Gridpak
+
+A Responsive Web Design tool for creating grids by Erskine Design.
+
+
+ 
+Reverie
+
+Reverie Framework is an extremely versatile HTML5 WordPress framework based on ZURB’s Foundation, a powerful tool for building prototypes on any kind of devices.
+
+
+ 
+Padrino
+
+Padrino is a ruby framework built upon the Sinatra web library. Sinatra is a DSL for creating simple web applications in Ruby. Padrino was created to make it fun and easy to code more advanced web applications while still adhering to the spirit that makes Sinatra great!
+
+
+ 
+Fluid Baseline Grid
+
+Fluid Baseline Grid is a web development kit created by Josh Hopkins and 40 Horse, LLC. It’s made for rapid prototyping website layout design with CSS3 and HTML5.
+
+
+ 
+AlphaPun
+
+An image with a transparent background is like a painting on a window: you can see all sorts of exciting things behind it, but you can’t reach through to touch them. AlphaPun.ch changes that!

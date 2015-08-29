@@ -1,0 +1,11 @@
+Find Direct Download Links using Google.
+Tired of torrents running out of seeders? No worries. You can search for direct download links using Google! 
+
+To download movies, perform a Google search as below:
+
+“YOUR SEARCH TERM HERE” -inurl:(htm|html|php|pls|txt) intitle:index.of “last modified” (mkv|mp4|avi)
+
+Example:
+Titanic -inurl:(htm|html|php|pls|txt) intitle:index.of “last modified” (mkv|mp4|avi)
+
+You can use this search trick to download not just movies, but almost any file.

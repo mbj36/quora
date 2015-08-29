@@ -1,0 +1,26 @@
+I don't know how far are you in the learning process, so you can just skip the items you've already done:
+
+Read the Dynamic programming chapter from Introduction to Algorithms by Cormen and others. You have to understand the theory of dividing a problem into subproblems, storing the intermediate results in the array and see how are some standard problems solved with DP.
+Read my tutorial on Are there any good resources or tutorials for dynamic programming besides the TopCoder tutorial?. It teaches you how to come up with memoization solution for the problems, which is much easier than standard DP solution with iteration. I strongly advice you to use this technique.
+Solve problems! Dynamic programming is something you learn by practice. There is no magic formula, no shortcut. But remember, "practice good, not hard". I have posted some good sources in the thread Where can I find good problems to practice recursion/topdown approach?. Always try to choose a little harder problem than you're comfortable with and solve it. Don't bother with easy problems. It gives you nothing besides the typing speed.
+
+There are more types of dynamic programming problems. Here are the most famous ones, sorted increasing by their difficulty:
+
+Problems which simply ask you to come up with the formula of calculating the answer from the subproblems. These are the most common ones and probably the ones you want to practice on (95+% of DP problems are of this type). On TopCoder, they are usually ranked as Div1-500 and easier. On other online judges just look for the problems with many successfull solutions.
+The number of dimensions of the array doesn't really tell much about the problem difficulty, so don't judge based on that. It only needs a little more implementation.
+The hardest problems in this category require you to use bitmasks. For example:
+http://community.topcoder.com/st...
+Here is a very nice tutorial on bit manipulation techniques:
+http://community.topcoder.com/tc...
+Problems which require you to come up with efficient linear recurrence, putting the recurrence into the matrix and calculate the N-th power of the matrix. Examples are: 
+http://www.spoj.pl/problems/XORR...
+http://www.spoj.pl/problems/TRKN...
+http://www.spoj.pl/problems/RP/
+Problems which require you to eliminate the inner cycle in the algorithm. For more information you can look at Knuth's speedup of calculating the optimal binary search tree (http://dl.acm.org/citation.cfm?i...) or:
+http://community.topcoder.com/tc...
+Problems which require you to effectively calculate and operate on the convex hull of the optimal solutions. For a nice problem with a solution, look at the problem Harbingers from CEOI 2009. Other examples are:
+http://www.spoj.pl/problems/MKPA...
+http://www.spoj.pl/problems/NKLE...
+http://www.spoj.pl/OI/problems/C...
+
+That's pretty much all you need to know. A word of advice: don't think about it too much. Just solve the problems (not the easy ones!) and after some time your brain will start to recognize the patterns. You will be faster and able to solve harder problems and suddenly you'll become an expert ;-)

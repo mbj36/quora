@@ -1,0 +1,267 @@
+Envato Market
+Market Blog
+Primary Menu
+ 
+Resources December 16, 2014
+50 Free Resources for Web Designers from 2014
+ 6  Tweet   Share
+
+
+In this post, I have collated my top 50 FREE resources for web designers from this fantastic year, 2014.
+
+There are libraries for quickly creating CSS charts and animating SVG icons, tools for converting image files to data URIs, web-based apps for creating icon fonts from SVGs, jQuery plugins for touch-enabled sliders, JavaScript libraries for creating animated GIFs, generators for creating Flexbox layouts… and much, much more.
+
+To help you find exactly what you’re looking for, I’ve broken the resources down into JavaScript Plugins & Tools, CSS Libraries, Tools & Frameworks, and Web-Based Tools & Services.
+
+Free JavaScript Plugins & Tools
+
+lightSlider is a lightweight and responsive content slider jQuery plugin with carousel thumbnails navigation.
+
+
+
+BttrLazyLoading is a jQuery plugin that allows your web app or page to only load images within the viewport.
+
+
+
+Gridscrolling.js is a jQuery plugin that lays outs an HTML5 article for you by positioning sections and asides in a grid, and offers an easy cursor navigation and overview map.
+
+
+
+Adaptive Backgrounds is a jQuery plugin for extracting the dominant colors from images and applying it to its parent, allowing your layout to have a blended color scheme.
+
+
+
+jNottery is a jQuery plugin that lets you add notes and markers to webpages. All the data is encoded as part of an URL which makes it easy to share or bookmark.
+
+
+
+HideSeek is a simple, yet customizable live search jQuery plugin.
+
+
+
+fontFlex is a lightweight jQuery plugin for dynamically changing font sizes based on the container or browser width.
+
+
+
+Gif Shot is a JavaScript library that can create animated GIFs from media streams, videos, or images.
+
+
+
+Ideal Image Slider is a slider plugin that has just the right amount of features, with no bloat.
+
+
+
+SVG Morpheus is a JavaScript library that enables SVG icons to transition from one to the other in a Material Design style.
+
+
+
+The Shuffle Images jQuery plugin lets you display and shuffle multiple images by simply moving the cursor.
+
+
+
+Timesheet.js is a simple JavaScript library for creating beautiful HTML time sheets.
+
+
+
+Face Detection is an amazing jQuery (and Zepto) plugin for detecting faces on images and videos.
+
+
+
+Sweep.js is a lightweight JavaScript library (5kb zipped) that enables proper color transitions through the HSL and HUSL spaces.
+
+
+
+Data Img is a simple jQuery plugin for dealing with responsive image delivery. It works by simply swapping the 'image src' / 'background-image url' depending on screen width.
+
+
+
+Vivus.js is a lightweight JavaScript class that allows you to animate SVGs, giving them the appearence of being drawn.
+
+
+
+pagePiling.js is a jQuery plugin for creating a pile of sections that you can access by either scrolling or directly by URL.
+
+
+
+Flow is a static type checker for JavaScript. It can be used to catch common bugs in JavaScript programs without any changes to the code.
+
+
+
+Gif Player is a customizable jQuery plugin that allows you to add play and stop controls to animated gifs.
+
+
+
+Naver is a simple jQuery plugin that will automatically turn a basic navigation system into a mobile friendly system.
+
+
+
+Free CSS Libraries, Tools & Frameworks
+
+Materialize is a lightweight CSS Framework that has been based on Google’s Material Design. The framework comes in two different forms, the standard with unminified CSS & JS, and the Sass version, which gives you more control over which components to include.
+
+
+
+Foundation for Apps (Sass) is an Angular-powered front-end framework for making fully immersive and flexible apps.
+
+
+
+Schema is a modular front-end framework (Less) to help you kick-start your process for creating complex interfaces right out the box.
+
+
+
+Flexbox Grid, as the name suggests, is a grid system based on the flex display property.
+
+
+
+Blueplate is a lightweight plugin for the Webplate front-end framework. The plugin adds a responsive CSS layout engine and SASS mixin library to an already solid framework.
+
+
+
+Magic Animations is a CSS3 animation library with some fantastic special effects.
+
+
+
+Material UI is a combines React components with a CSS (Less) Framework that implements Google’s Material Design. You can grab the Sass version here.
+
+
+
+Inspired by tools like Compass and Bourbon, Kouto Swiss is a complete CSS framework for Stylus. The framework comes packaged with a huge selection of mixins, functions and utilities , and also includes the power of the caniuse website to help your CSS fit your compatibility needs.
+
+
+
+Tumblr-Cog-Loaders is an amazing library of animated Tumblr-style cog loading icons. Built with only CSS and SVG.
+
+
+
+CSS Plot is a small library of CSS-only charts and graphs.
+
+
+
+Animate.css is a collection of cross-browser animations for you to use in your projects.
+
+
+
+Material Design for Bootstrap is a theme for Bootstrap 3 which lets you use Google’s new Material Design language in the worlds most popular front-end framework.
+
+
+
+Imacss is a library that converts image files to data URIs and embeds them into a single CSS file as background images.
+
+
+
+NightTabs is a clean and responsive solution for creating a beautiful tabbed content navigation without any JavaScript.
+
+
+
+CSSDevices is a pure-CSS library of flat Apple devices. It allows you to easily add a pure-CSS iOS device to your website to show off the screenshots of your cool new app.
+
+
+
+CSS-On-Diet (COD) is a new preprocessor built specifically for designers. Other preprocessors do have steep learning curves, while COD, with it’s simpler syntax, focuses on allowing you to write CSS faster.
+
+
+
+Marka is an innovative and ‘transform-able’ collection of icons, beautifully and carefully designed to work on the web.
+
+
+
+Web-Based Tools & Services
+
+Font Flipper is a simple web-based tool for browsing and experimenting with the fonts that are installed on your computer.
+
+
+
+Font Family Reunion is a reference tool for looking-up the default font lists on different operating systems.
+
+
+
+Type-Finder is a tool for helping you navigate a curated library of typefaces by asking a set of questions that will help to select the perfect font family.
+
+
+
+BADA55.io is tool for finding the most ‘badass’ leet words for your CSS hex colors. You know #b000b5, #bada55, that kind of thing.
+
+
+
+Glyphter is a handy tool for creating icon fonts from SVGs.
+
+
+
+SVG Circus is a web-based tool for creating cool animated SVG spinners, loaders and other looped animations quickly.
+
+
+
+Fibonacci is a generator that will allow non-developers to design web page layouts using Flexbox, all without having to learn HTML or CSS.
+
+
+
+Flexy Boxes is a flexbox code generator and learning playground.
+
+
+
+EnjoyCSS is an advanced CSS3 generator with an easy-to-use UI that allows you to adjust rich graphical styles quickly and without coding.
+
+
+
+Built for font design hobbyists, Glyphr Studio is a free, feature-rich web-based tool for designing fonts.
+
+
+
+PatternBolt is a library and generator of SVG pattern backgrounds that you can download as a single CSS or SCSS file.
+
+
+
+LoremFlickr is a simple and free image placeholder service. The images are pulled from Flickr and have a Creative Commons license.
+
+
+
+StyleStats is a Node.js library and web-based tool for collecting and displaying useful CSS statistics.
+
+
+
+SC5 Styleguide is a useful tool that helps you generate style guides from stylesheets. It can be used as a command line utility, gulp task or grunt task
+
+
+
+Compressor.io is a tool for compressing the size of your images. It supports JPEG, PNG, GIF & SVG, and offers both ‘lossless’ or ‘lossy’ levels of compression.
+
+
+
+TinyJPG is a web-based tool for reducing/compressing the file size of your JPEG images.
+
+
+
+Finished!
+
+If you’re eager for some more free resources, you should check out this collection of free web-based CSS tools, this selection of useful Chrome Extensions for web designers, or even this extensive collection of cheatsheets for web designers.
+
+ 
+Paul Andrew
+I'm Paul Andrew, content lead on Market Blog.
+
+More →
+
+What to read next:
+Resources
+Our Top 50 New WordPress Plugins of 2014
+
+by Paul A.
+Resources
+10 CSS Preprocessors Worth Considering
+
+by Sufyan b.
+Resources
+Our Top 50 New WordPress Themes of 2014
+
+by Paul A.
+
+Envato Market
+Follow us
+Facebook
+Twitter
+Google+
+RSS
+Email Newsletters
+Subscribe to receive inspiration, news, and ideas in your inbox.
+ Subscribe
+Privacy Policy

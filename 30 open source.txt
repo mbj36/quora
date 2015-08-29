@@ -1,0 +1,172 @@
+Developers love to use open source tools for making their development task easy. Generally, open source development tools are available for free-of-cost and can be modified the way developer sees robust.
+
+Having lots of advantages of using open source development, we have listed 30 different types of tools for data Visualization, Windows and Programmers that helps them in developing web applications/sites with an ease.
+
+
+Tools for Data Visualization
+
+Tool #1: iCharts
+
+iCharts is one of the best platforms helps to connect publishers of economic, market research with consumers. Through this tool, about tens of thousands of charts in sports, economy, and business and of other categories are hosted. With this data visualization tool, people can easily search and follow the latest data insights of the world.
+
+A cloud-based and patented charting tool is provided by iCharts, enabling companies and individuals to share and market their data as chart content to many viewers across the web. The best thing about icharts is it allows users to create free accounts that have basic interactive charts while its premium version comes with lots of features.
+
+Tool #2: Pizza Pie Charts
+
+One of the best responsive pie charts, Pizza Pie Charts is based on the Snap SVG framework from Adobe. This pie chart focuses on easy integration through HTML markup and CSS rather than of JavaScript objects. Moreover, you are free to pass JavaScript objects to Pizza as well.
+
+Users can also send pie charts to any smart device with Pizza. There is no doubt pie will be streaming hot with SVG with an intention that it looks better on retina devices and HiDPI devices. Moreover, the width of your box will be fitted the pie or can be provided a max-width or max-height.
+
+Tool #3: Bonsai
+
+Bonsai is an amazing open-source JavaScript library for developing animations and graphics. The outputs using SVG is rendered by the library and it comes with an intuitive, feature-rich API. Users can also get support for developing simple shapes like circle, ellipse, rectangle, and so on with particular functions and a path() function that exists for creating any custom shapes.
+
+It is must to apply filters (grayscale, blur, opacity and more), colors, and gradients to such type of shapes. Additionally, there are many keyboard events and mouse (or touch) is already created fitted to the library and can be changed with an ease.
+
+Tool #4: Google Charts
+
+Do you want to visualize data on your website? Google Charts is the best option to visualize data on your website as it provides a collection of ready-to-use chart types, from simple line charts to complex hierarchical tree maps.
+
+Google Charts is the best tools for specialist visualizations like gauges and geocharts. Moreover, it also adds user interaction controls and built-in animation.
+
+Tool #5: Cube
+
+Built on MongoDB, Node, and D3, Cube is one of the best open-source systems for visualizing time series data. One can easily create real-time visualizations of aggregate metrics for internal dashboards, if he/she sends Cube timestamped events (with optional structured data).
+
+Tool #6: Arbor.js
+
+Arbor.js is one of the popular graph visualization libraries that created with web workers and jQuery. A force-directed layout algorithm, screens refresh handling, abstractions for graph organization, etc. is provided by Arbor.js.
+
+One doesn’t find particular method for screen-drawing with this library. They are allowed to use it with canvas, SVG, or even positioned HTML elements. Moreover, one can easily focus on the graph data and its style instead of spending much time on the physics math that creates the layout.
+
+Tool #7: D3.js
+
+D3.js is one of the best JavaScript libraries that used for developing data visualizations with an emphasis on web standards. By using CSS, HTML, and SVG, one can easily bring documents to the life with data-driven approach to DOM manipulation. The entire thing is available with the full capabilities of modern browsers without constraints of proprietary frameworks.
+
+D3.js also helps to generate HTML tables from data sets. It comes with a collection of plug-ins and components to improve capabilities. Additionally, it has in-built reusable components for easy coding functionality.
+
+Tool #8: Axiis
+
+One of the best open-source data visualization frameworks, Axiis is designed for beginner and expert developers. Developers can get ability to define their data visualizations via concise and intuitive markup.
+
+Pre-built visualization components are also provided by Axiis along with the abstract layout patterns that render classes for enable to develop your own unique visualizations. Designed in a granular framework, Axiis enables developers to mix and match factors that are created on complex output by compositing together basic building blocks.
+
+Tool #9: HumbleFinance
+
+HumbleFinance is one of the most popular HTML5 data visualization tools that look same as the Flash chart in Google Finance. Moreover, this tool helps to utilize the Prototype and Flotr libraries along with showing financial data but any two 2-D data sets which share an axis.
+
+The data requires to be saved in JavaScript variables and three parameters are needed to be set before accessing any function to develop the chart. It is also possible to choose a part of the data and zoon to that part as it is useful function when working with large datasets.
+
+Tool #10: Paper.js
+
+Paper.js is one of the well-known open-source vector graphics scripting frameworks that runs on the top of the HTML5 Canvas. A clean Scene Graph / Document Object Model are offered by this framework. Additionally, it also has a powerful functionality that helps to create and works with vector graphics and bezier curves.
+
+Paper.js is an easy-to-learn for novice and comes with a collection of remarkable features for intermediate and advanced users.
+
+
+Tools for Windows
+
+Tool #11: Audacity
+
+An open source tools, Audacity is used for recording and editing sounds. It comes with a lot of amazing features like converting tapes and LPs to digital recordings, recording streaming audio playing on the computer and so on.
+
+A lot to general-purpose users is offered by Audacity such as converting favorite tunes, music capturing, mobile ringtones and many other things. Once you have to download, you only have to edit sound clips, and open them through File>> Open to get a graphical representation of the clip.
+
+Now, you have to select a part for editing purpose. If you want to record sound, then you have to choose the proper input device and click on the record button. Lastly, you have to save it to the desired format.
+
+Tool #12: Core Configurator 2.0 for Server Core
+
+Core Configurator 2.0 for Server Core gives a command-line version of Windows Server 2008 and Windows Server 2008 R2 at installation. Moreover, one can get a small attack surface with its light footprint. However, the only problem is its administrators crack open command-line books to configure their servers. A GUI method is also provided by this free tool for creating tasks.
+
+Tool #13: UltraDefrag
+
+With the help of UltraDefrag Windows’s tool, one can easily defrag files, the paging file and registry hives. The best thing about this tool is it continues updated for making sure that the performance is improved.
+
+UltraDefrag supports many versions of Windows, including Windows XP, Windows Server 2003, Windows NT 4.0, Windows 2000, Windows Vista, Windows Server 2008, Windows 7, and all of the 64-bit editions of Windows.
+
+Tool #14: ClamWin Antivirus
+
+ClamWin Antivirus is an open source antivirus solution for securing security-minded admins. Windows Vista, Windows XP, Windows Me, and Windows 2000/98 systems, Windows 7, as well as Windows Server 2008 and Windows Server 2003 are supported by ClamWin.
+
+A scanning scheduler is also installed by this tools that you can use for configuring appropriate scan times, but it doesn’t come with an on-access real-time scanner. ClamWin has ability to incorporate into Outlook and Windows Explorer for easy scanning.
+
+Tool #15: MailArchiva
+
+MailArchiva is one of the best Windows tools that provide a valuable means for bringing compliance to Exchange 2000/2003 and related other mail servers like Lotus Notes, Postfix, Qmail, iMail, Sendmail, and so on. Users can have two options for MailArchiva, i.e. an enterprise flavor and an open source.
+
+Tool #16: VirtualBox
+
+VirtualBox is one of the best open source virtualization solutions for those admin, who are looking to run guest OSes on Macintosh, Windows, Linux, or Solaris machines. Virtual instances can be run by admins by using VirtualBox of a collection of operating systems like OpenSolaris, OS/2, OpenBSD, Windows, Linux, and even DOS.
+
+Tool #17: Virtual Router
+
+Virtual Router is one of the best nifty tools that used to turn Windows Server 2008 R2 or Windows 7 system into a Wi-Fi hotspot. Users can wirelessly share any internet connection, including LAN, cable modem, Wi-Fi, dial-up, cellular, etc. by using Virtual Router with any Wi-Fi-enabled device.
+
+Users can also connect laptops, smartdevices, netbooks, wireless printers, etc. to Virtual Router as it is a secured connection using WPA2, the most secure wireless encryption.
+
+Tool #18: Wireshark
+
+Wireshark is one of the recommended tools for ease traffic analysis as it comes with a collection of powerful features. Based on software-based protocol analyzers color-coding features, it comes with a superior usability that makes a Wireshark must-have tool for any Microsoft shop.
+
+Tool #19: Zenmap
+
+One of the coolest tools for mapping a topology of devices, Zenmap provides an animated visualization of hosts by working off of Nmap on a network and configured in rings. Users just have to click on a host and it moves to the center of your network topology to provide the capability to trace different connections of host.
+
+Having Zenmap enable to get information related to potential vulnerabilities with an ease. Moreover, it also ensures to have your firewalls and routers work perfectly.
+
+Tool #20: PowerGUI
+
+PowerShell provides a retro pleasure for long-term admins, who remember the command-line days. Moreover, for other users, it bangs on the command lines to the administer systems that can be a pain.
+
+Those people, who are looking for more graphical means of tapping into PowerShell, can have PowerGUI, which is a free graphical user interface and script editor for PowerShell. With this tool, you will also find a community that created around PowerGUI along with the vast store of contributed scripts and libraries to administer your fleet.
+
+
+Tools for Programmers
+
+Tool #21: Firefox Web Developer Toolbar
+
+No doubt, Firebug is the best option, but, if you want to alternative to it then Firefox web developer toolbar is something you are looking for. This tool comes with more functions than the Firebug plug-in and using this tool, you can simply divide any Web page to see what’s inside its code.
+
+Tool #22: PostgreSQL
+
+PostgreSQL is one of the best alternatives for those web developers, who don’t want to use MySQL. Postgres is better known as robust, fast, and professional database.
+
+Tool #23: Komodo Edit
+
+If you are looking for best editor for PHP, Ruby, Javascript, Perl, Python, and Tcl, Komodo Edit is one that becomes your partner. It comes with limited editions that have all the perks that you needed in your daily work.
+
+Tool #24: KompoZer
+
+Formerly known as Nvu, KompoZer is one of the best WISYWIG HTML editors that don’t require an ultra powerful PC for opening a file. Being a light-weight application, it is best alternative for advanced programming tasks.
+
+Tool #25: Rhomobile Rhodes
+
+Rhomobile Rhodes is the popular open source platform that helps to create Ruby websites and stuffing it into an iOS application. Web developers can also use jQuery Mobile for handling the layout of their requirements, if they want to use.
+
+Seems like developing web application, you also have to remember that the users are using fingers rather than mouse pointer.
+
+Tool #26: Hadoop
+
+Do you want to divide your work into pieces for computation on separate servers? No other tool is best than Hadoop. This tool helps to divide work into pieces and then joined together the final product. With Hadoop, you can easily spinoffs code for tackling specific problems.
+
+Moreover, this tool delivers a general framework that can be used when choreographing a vast army of servers to crawl the Web.
+
+Tool #27: Apache
+
+Apache is the most popular Web server that used by every web developers. Being a reliable and fast, Apache can be quite difficult for novice web programmers.
+
+Tool #28: OpenSTA
+
+Once coding is done, the thing is not over here. You have to check the code. There is no doubt loads of tests can be done, but one have to must do one testing is load testing.
+
+OpenSTA helps you to perform some essential tests to ensure that your application works smoothly and doesn’t misbehave.
+
+Tool #29: OpenVidia
+
+With OpenVIDIA, web developers can easily implement computer vision algorithms that run on graphics hardware like single or multiple GPUs by using CUDA-C, OpenGL, and Cg. The best thing is OpenVidia repository is connected with the project that acts searching, image recognition and many other things.
+
+Tool #30: XAMPP
+
+An easy-to-install, XAMPP is excellent Web server for writing web application. Along with this tool, you require some other tools like the PHP language framework and the relational MySQL database. XAMPP is a bundle with MySQL, Apache, and PHP that can be used with Windows, Mac OS X & Linux.
+
+Above given are some remarkable open source tools that can be used by professional developer to complete development task with an ease. If you don’t want to use these tools instead you have to hire web developer for your project then contact Perception System.
