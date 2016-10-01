@@ -1,0 +1,225 @@
+6 Important Points from a Googler's Perspective.
+Before I provide you the list of courses, read Point 1, 2.
+Full-time working professionals—Read this answer "selectively" on the basis of your industry experience and academic knowledge.
+Pre-University Students—Skip everything and Jump to Point 7.
+
+# Point 1: Lets Get to the actual Question i.e.
+
+How can I prepare myself to be a "good" software engineer?
+
+Yep! Rest of the question is optional. Joining Google is not a moonshot. Any Good software Engineer has Good chances to be part of Google work-culture.
+Problem is how you define "Good".
+** Point 2: Attitude Adjustment.
+
+Before you impress recruiters at Google, Lets see if a software engineering role at Google is something you actually want.
+
+Software engineering is not as fun as the popular notion says about it. Apart from UI/UX positions, in general, no matter what text editor you use—Eclipse, Vim or Emacs—Your screen will be Black, Boring & Dull. A full-time software engineering role not only requires an ability to work on complex algorithms but enough tolerance and patience to focus on meticulous details of a large program.
+
+At Google, in general, most software engineering role comes down to nothing but mathematics. It doesn't matter how many languages you know or how cool you are with Java, C, C++ etc.
+
+What matters are these four objectives:
+Your ability to create efficient algorithm.
+Your meticulous skills to read codes written by others and spot issues in it, if any.
+Your curiosity to learn and implement new technology trends and adapt with demand.
+Last but most important: What you Build, how you Build?
+
+I must point out that attaining these four objectives is not easy. Most of us at Google have hard time reaching these objectives but we try, so should you.
+
+Everyone has different approach towards learning. For me, I read one research paper links I find on Quora(May/May not be related to CS) and one research papers at Google(Internal records)—everyday.
+
+When you join Google, you will have access to all code base, database, forums, research papers and projects which will provide you a great support in learning things which you won't find on Wikipedia...
+
+...but while you are preparing on your way to be at Google, there are few things which are common in the process of learning. In point #5, you will learn more about it—how to reach these four objectives—but before there're some pre-requisites that needs to be looked upon. So, Lets go to next step. i.e.
+# Point 3: Guide for Technical Development in 2014—From Google.
+
+Having a solid foundation in Computer Science is important in being a successful Software Engineer. Following guide from Google is a suggested path for University students to develop their technical skills academically and non-academically through self paced hands-on learning. You may use the following course guide to determine courses to take but please make sure you are taking courses required for your major or faculty in order to graduate. The online resources provided in this guide are not meant to replace courses available at your University. However, they may help supplement your learning or provide an introduction to the topic.
+Using this guide:
+Please use this guide at your discretion
+There may be other things you want to learn or do outside of this guide - go for it!
+
+** Point 4: Recommendations for Academic Learning.
+
+Introduction to CS Course
+Notes: Introduction to Computer Science Course that provides instructions on coding.
+Online Resources:
+Udacity - intro to CS course,
+Coursera - Computer Science 101
+
+Code in at least one object oriented programming language: C++, Java, or Python
+Beginner Online Resources:
+Coursera - Learn to Program: The Fundamentals,
+MIT Intro to Programming in Java,
+Google's Python Class,
+Coursera - Introduction to Python,
+Python Open Source E-Book
+
+Intermediate Online Resources:
+Udacity's Design of Computer Programs,
+Coursera - Learn to Program: Crafting Quality Code,
+Coursera - Programming Languages,
+Brown University - Introduction to Programming Languages
+
+Learn other Programming Languages
+Notes: Add to your repertoire - Java Script, CSS, HTML, Ruby, PHP, C, Perl, Shell. Lisp, Scheme.
+Online Resources: w3school.com - HTML Tutorial, Learn to code
+
+Test Your Code
+Notes: Learn how to catch bugs, create tests, and break your software
+Online Resources: Udacity - Software Testing Methods, Udacity - Software Debugging
+
+Develop logical reasoning and knowledge of discrete math
+Online Resources:
+MIT Mathematics for Computer Science,
+Coursera - Introduction to Logic,
+Coursera - Linear and Discrete Optimization,
+Coursera - Probabilistic Graphical Models,
+Coursera - Game Theory.
+
+Develop strong understanding of Algorithms and Data Structures
+Notes: Learn about fundamental data types (stack, queues, and bags), sorting algorithms (quicksort, mergesort, heapsort), and data structures (binary search trees, red-black trees, hash tables), Big O.
+Online Resources:
+MIT Introduction to Algorithms,
+Coursera - Introduction to Algorithms Part 1 & Part 2,
+Wikipedia - List of Algorithms,
+Wikipedia - List of Data Structures,
+Book: The Algorithm Design Manual
+
+Develop a strong knowledge of operating systems
+Online Resources: UC Berkeley Computer Science 162
+
+Learn Artificial Intelligence Online Resources:
+Stanford University - Introduction to Robotics, Natural Language Processing, Machine Learning
+
+Learn how to build compilers
+Online Resources: Coursera - Compilers
+
+Learn cryptography
+Online Resources: Coursera - Cryptography, Udacity - Applied Cryptography
+
+Learn Parallel Programming
+Online Resources: Coursera - Heterogeneous Parallel Programming
+
+
+
+
+** Point 5: Recommendations for Non-Academic Learning.
+
+Work on project outside of the classroom.
+Notes: Create and maintain a website, build your own server, or build a robot.
+Online Resources: Apache List of Projects, Google Summer of Code, Google Developer Group
+
+Work on a small piece of a large system (codebase), read and understand existing code, track down documentation, and debug things.
+Notes: Github is a great way to read other people’s code or contribute to a project.
+Online Resources: Github, Kiln
+
+Work on project with other programmers.
+Notes: This will help you improve your ability to work well in a team and enable you to learn from others.
+
+Practice your algorithmic knowledge and coding skills
+Notes: Practice your algorithmic knowledge through coding competitions like CodeJam or ACM’s International Collegiate Programming Contest.
+Online Resources: CodeJam, ACM ICPC
+
+Become a Teaching Assistant
+Notes: Helping to teach other students will help enhance your knowledge in the subject matter.
+
+Internship experience in software engineering
+Notes: Make sure you apply for internships well in advance of the period internships take place. In India and US, Internships take place during the summer, May-September, and applications are usually open several months in advance.
+Online Resources: google.com/jobs
+
+
+
+
+# Point 6: Google Recommended/Sponsored Programs and Groups.
+
+Few Additional Course you may choose to subscribe with respect to your domain or interest. These courses and programs are a great place to learn but they don't increase or decrease your chances to join Google—They are not equivalent to Internship. (More Info from Robert Love)
+
+Google Course—Making Sense of Data
+
+This self-paced, online course is intended for anyone who wants to learn more about how to structure, visualize, and manipulate data
+
+Google Course—BOLD Discovery
+This two-day interactive conference will provide students between their first and second years of college with an introduction to Google culture and potential careers at the company.
+
+Google Summer of Code
+Google Summer of Code (GSoC)
+A global online program offering post-secondary student developers ages 18+ stipends to write code for various open source software projects.
+
+Google Policy Fellowship
+This program offers students the opportunity to spend the summer working on Internet and technology policy issues at public interest organizations
+
+Google Student Veterans Summit
+The Google Student Veterans Summit includes a professional development curriculum geared towards veterans' transitions into the workplace.
+
+Also Read: Ellen Spertus's views on How can I effectively use my last two years of college to prepare for a great Software Engineering job at Google/FB or a startup?
+
+
+
+
+** Point 7: Recommendation for Courses in Mathematics.
+(For Pre-University Students)
+
+Personal View: Any attempt to ignore these subjects will put you in the category of average programmers who learn things in completely wrong way.
+
+Staying prepared much before would make coding much more enjoying. There are few pre-requisites, for software-engineering, which you need to understand the core of algorithm. Most mistakes created by software engineers could have been avoided if they would've recalled the simple things from school education.
+
+In your further studies in Maths or Computer Science, You will realize the importance of "Data Structure in your college days" and importance of "Machine Learning in your post-graduate days". So, Following are detailed list of courses you must master in-order to design complex algorithms. For college-graduates, if you had ignored these subject, I highly recommend you should revise it in the best possible way you can.
+
+After you're done with introductory syllabus from your school books, practice the following courses for deeper understanding. Most college students (even working professionals) underestimate the importance of these courses and end up being just another average programmers:
+
+Linear Algebra
+1. Linear Algebra | Mathematics | MIT OpenCourseWare (Recommended by Me)
+2. Coding the Matrix: Linear Algebra Through Computer Science Application (Recommended by a coworker)
+
+Learning these will help you understand Regression Model in future—The basic step of Machine Learning. You won't be taught these linear algebra courses in any school, colleges, research labs or institution. Learn it on your own.
+
+Calculus
+1. Calculus 1 - Ohio State University
+2. Pre-Calculus Courses - Universitat Autonoma de Barcelona
+3. Calculus for Beginners and Artists - MIT
+
+Statistics & Probability
+1. Statistics One
+2. RNG, Advanced Placement — stattrek.com
+
+Note: By the time you reach college and graduate, the syllabus would've moved towards Machine Learning algorithms. To most college students, mathematics gives them a pretty hard time for first 3 months of Machine Learning courses and by the time they catch up, syllabus moves to more sophisticated areas of ML, such as Deep Learning, Neural Networks & NNSP.
+
+
+# Pre-University: Google Recommended/Sponsored Programs.
+
+Google Code-in (GCI)
+A contest introducing pre-university students, ages 13-17, to the many kinds of contributions that make open source software development possible.
+
+RISE Awards
+Google RISE is a partnership and awards program designed to promote and support STEM and Computer Science education initiatives for K-12/Primary and Secondary/Class 10th and 12th students around the world.
+
+LEAD Computer Science Institute (LEAD-CSI)
+This program exposes middle and high school students from diverse communities to colleges and careers in the Science, Technology, Engineering and Math (STEM) fields.
+
+Made with Code
+Coding is the new literacy - it carries the potential to create, to innovate, and quite literally change the world. This initiative is designed to inspire millions of girls to experience the power of code.
+
+High School Symposium
+This is a one day program designed to provide high-achieving high school seniors with valuable business skills before starting college.
+
+Trailblazer
+Trailblazer is a global network of leaders, advocates, and ambassadors for computer science education who will be charged with empowering youth and educators around the globe to be connected to and inspired by computer science.
+
+Google Science Fair
+The Google Science Fair is a global competition open to 13-18 olds. Students submit a project online for a chance to win amazing prizes.
+
+Computer Science Summer Institute (CSSI)
+CSSI is a 3-week summer program for incoming college freshmen (current high school seniors) who are interested in studying computer science.
+
+Maker Camp on Google+
+30 days of Do It Yourself and making. Maker Camp is a free virtual summer camp on Google+, open to all
+Maker Camp 2013: Supercharge Your Summer! 
+
+Connected Classrooms
+Collaborate with teachers and education organizations to offer experiential learning opportunities for K-12 students on Google+.
+
+
+Fields marked in asterisk.
+#  Optional.
+** Mandatory.
+
+Words By Gaurav Jha(Software Engg at Google)

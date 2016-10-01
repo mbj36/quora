@@ -1,0 +1,22 @@
+When you go to a doctor for an ailment, the doctor takes a variety of readings – your body temperature, heart beat, pulse rate etc. These numbers help him/her understand your body condition and prescribe the right solutions. 
+
+In the same way, economists have come up with a number of metrics that all help understand what is happening to the economy and how can we improve people’s lives for the better.
+
+The most important number is the CPI (Consumer Price Index). This measures the price levels at the consumer levels. We want to see whether our workers are able to buy things at an affordable price. So, you take up the price of a bunch of important things (food, rents, petrol etc) from last year and compare the prices of those same things this year. 
+
+Think of this metric as analogous to your body temperature. If your temperature is high, the doctor prescribes you medicines to reduce the fever. If your temperature is low, he sends you to the hospital. In the same way, if CPI increases, it is termed inflation and the Reserve Bank does a few things to reduce the fever. If it decreases, it is termed a deflation and presses the panic button and does a few more things. 
+
+WPI (Wholesale Price Index) is pretty much like CPI but measure what manufacturers pay for their stuff. We want to see if our factories can afford to buy their raw materials. WPI often runs parallel to CPI, but not always. For instance, as of Feb 2015 prices of raw materials are going down [WPI is down] while the CPI is still growing – as the CPI is also impacted by things like rent and other consumer stuff that are not going down. 
+
+The next important term is GDP (Gross Domestic Product). Think of this as your muscle mass. More the better. Countries with high GDP tend to show off their muscles. They can often beat up the countries with lower GDP. It is much more harder to compute than CPI (which is just like a thermometer reading). 
+
+What GDP measures is the total amount of value everyone in the economy adds. One of the easiest way to think of value is the price you pay for stuff. If your employer pays you Rs. 20,000/month then your value to her is Rs. 20,000/month. In other words, GDP is a proxy for measuring what is the total income of everyone in the economy. Thus, this is the primary way to measure if a country is rich or poor. 
+
+A person with lower muscles can get fever and a person with large muscles can get fever. In the save way, a rich economy can get fever and so can a poor economy. However, people with a lot of muscles also tend to be healthy and thus are less likely to fall sick than people with weak bodies. The same for economies – poorer economies are more prone to inflation. That said, a person who is looking to grow muscles can overstretch himself and catch a fever. Same happens to economies that try to grow their GDP too fast and fall sick with inflation [China is the latest casualty of this heavy workout]. 
+
+IIP (Index of Industrial Production) is somewhat related to the GDP. It measures the growth in mining, manufacturing and electricity. Think of this as the diet that leads to the growth in muscular mass. What if I measure the protein intake you had? If your protein intake is high, then at some point your muscle is likely to grow big. In the same way, if the IIP is high then the GDP is likely to grow up at some point. That said, the relationship is not always linear [sometimes you might drink a lot of protein and still not grow any muscle]. 
+
+More technically, IIP measures how big our present industrial production is compared to say 1994. 
+
+
+- See more at: http://www.nalandau.com/2015/10/14/understanding-economics-iip-gdp-cpi-and-wpi-in-laymans-terms/#sthash.7XLdcqt9.dpuf
